@@ -1,5 +1,6 @@
 import sys
 
+
 def default():
 	print('Hello')
 
