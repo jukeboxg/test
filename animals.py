@@ -6,6 +6,9 @@ def default():
 def dog():
 	print('Woof')
 
+def rooster():
+	return
+
 def cat():
 	print('Meow')
 
