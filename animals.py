@@ -7,7 +7,7 @@ def dog():
 	print('Woof')
 
 def rooster():
-	print('cock-a-doodle-doo')
+	print('Cock-a-doodle-doo')
 
 def cat():
 	print('Meow')
