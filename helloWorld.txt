@@ -1,4 +1,9 @@
 Hello World!!
 :)
  
+<<<<<<< HEAD
 THis is my text!!
+=======
+THis is my text
+Second line
+>>>>>>> 2
